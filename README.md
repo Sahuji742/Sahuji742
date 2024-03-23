@@ -1,13 +1,8 @@
-<<<<<<< HEAD
-<h1 align="center">Hi 👋, I'm Shashank Sahu</h1>
-<h3 align="center">A passionate Data Analyst/Engineer from Lucknow </h3>
-=======
 - 👋 Hi, I’m @Shashank_Sahu
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Data_science
 - 💞️ I’m looking to collaborate on on projects of python, ML, MySQL, NPL, NoSQL
 - 📫 How to reach me - shashanksahu84299@gmail.com
->>>>>>> 9a6423051490dfafe8e4922b0f1d81a47fc91527
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShashankkSahu&label=Profile%20views&color=0e75b6&style=flat" alt="ShashankkSahu" /> </p>
 
