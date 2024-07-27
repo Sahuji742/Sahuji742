@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @Shashank_Sahu
-- 👀 I’m a passionate Data Analyst
-- 🌱 I’m currently learning Data_science
-- 💞️ I’m looking to collaborate on on projects of PowerBI, ML, SQL, Tableau, MS Excel
+<h1 align="center">Hi 👋, I'm Shashank Sahu, a Data Analyst <span><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHRtcm44eTAxeDk1aWJua29qcDhhbHMzZjdwaWNvYXdyNDJnODRhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ADD4w6XgqLBJohQdBK/giphy.webp" width="100"></span></h1>
+<p align="center">
+  <img src="https://tenor.com/view/magic-computer-penguin-ai-data-gif-16700979819259403905" width="480">
+</p>
+
+<h3>I'm a passionate Data Scientist with a focus on Natural Language Processing, Machine Learning and Deep Learning. 🤖✨</h3>
+
 - 📫 How to reach me - 09shashanksahu@gmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShashankkSahu&label=Profile%20views&color=0e75b6&style=flat" alt="ShashankkSahu" /> </p>
