@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shashank Sahu, a Data Analyst <span><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHRtcm44eTAxeDk1aWJua29qcDhhbHMzZjdwaWNvYXdyNDJnODRhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ADD4w6XgqLBJohQdBK/giphy.webp" width="100"></span></h1>
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzFxMWs0aDdhajJwczdnbWttamJrczFnd2E3N2h3bzd1eDB1dTh2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.webp" width="480"></span></h1>
-<p align="center">
-
+<p style="text-align=center">
 <h3>I'm a passionate Data Analyst with a focus on PowerBI, SQL, MS Excel and Tableau. 🤖✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShashankkSahu&label=Profile%20views&color=0e75b6&style=flat" alt="ShashankkSahu" /> </p>
