@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shashank_Sahu
-- 👀 I’m interested in coding
+- 👀 I’m a passionate Data Analyst
 - 🌱 I’m currently learning Data_science
 - 💞️ I’m looking to collaborate on on projects of PowerBI, ML, SQL, Tableau, MS Excel
 - 📫 How to reach me - 09shashanksahu@gmail.com
