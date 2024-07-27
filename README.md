@@ -5,8 +5,6 @@
 
 <h3>I'm a passionate Data Analyst with a focus on PowerBI, SQL, MS Excel and Tableau. 🤖✨</h3>
 
-- 📫 How to reach me - 09shashanksahu@gmail.com
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShashankkSahu&label=Profile%20views&color=0e75b6&style=flat" alt="ShashankkSahu" /> </p>
 
 <p align="left"> <a href="https://twitter.com/Shashanksahu742" target="blank"><img src="https://img.shields.io/twitter/follow/Shashanksahu742?logo=twitter&style=for-the-badge" alt="Shashanksahu742" /></a> </p>
