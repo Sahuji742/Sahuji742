@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shashank Sahu, a Data Analyst <span><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHRtcm44eTAxeDk1aWJua29qcDhhbHMzZjdwaWNvYXdyNDJnODRhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ADD4w6XgqLBJohQdBK/giphy.webp" width="100"></span></h1>
 <p align="center">
-  <img src="https://tenor.com/view/magic-computer-penguin-ai-data-gif-16700979819259403905" width="480">
+  <img src="https://media1.tenor.com/m/58XMqPfsnoEAAAAC/magic-computer.gif" width="480">
 </p>
 
-<h3>I'm a passionate Data Scientist with a focus on Natural Language Processing, Machine Learning and Deep Learning. 🤖✨</h3>
+<h3>I'm a passionate Data Analyst with a focus on PowerBI, SQL, MS Excel and Tableau. 🤖✨</h3>
 
 - 📫 How to reach me - 09shashanksahu@gmail.com
 
