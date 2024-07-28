@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **MS_Excel, MySQL, Mongodb, Python, Tableau, PowerBI, Statistic, Probability**
 
-- 📫 How to reach me **shashanksahu84299@gmail.com**
+- 📫 How to reach me **09shashanksahu@gmail.com**
 
 - 📄 Know about my experiences https://drive.google.com/file/d/1m9pTffJoLstVytyukTzhQzj5dzcLMW4c/view?usp=drive_link.
 
